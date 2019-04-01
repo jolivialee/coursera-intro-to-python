@@ -1,4 +1,5 @@
-#Prompt user to compute pay with overtime pay. Hours: 45; rate: 10; pay: 475.0
+# Prompt user to compute pay with overtime pay
+# Hours: 45; rate: 10; pay: 475.0
 
 hrs = input("Enter Hours: ")
 rte = input ("Enter Rate: ")
