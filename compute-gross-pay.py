@@ -1,4 +1,4 @@
-#Prompt user for hours and rate per hour to compute gross pay. Hours should be 35, rate should be 2.75, pay should be 96.25
+#Prompt user for hours and rate per hour to compute gross pay. Hours: 35, rate: 2.75, pay: 96.25
 
 hrs = input("Enter Hours: ")
 rte = input ("Enter Rate: ")
