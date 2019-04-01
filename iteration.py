@@ -1,4 +1,5 @@
-# Prompt for a list which repeatedly reads numbers until the user enters "done". At the end print out both the maximum and minimum of the numbers. 
+# Prompt for a list which repeatedly reads numbers until the user enters "done"
+# At the end print out both the maximum and minimum of the numbers
 
 largest = None
 smallest = None
