@@ -14,4 +14,3 @@ r = float(rte)
 
 p = computepay(h,r)
 print("Pay",p)
-
